@@ -1,0 +1,27 @@
+ADTool
+From Server Manager (available under Administrative Tools), go to "Features", then "Add Features".
+
+Windows Server 2008 Standard Instructions:
+
+Expand:
+
+Remote Server Administration Tools
+Role Administration Tools
+Active Directory Domain Services Tools
+Then check Active Directory Domain Controller Tools.
+
+Windows Server 2008 R2 Instructions:
+
+Expand:
+
+Remote Server Administration Tools
+Role Administration Tools
+AD DS and AD LDS Tools
+AD DS Tools
+Then check AD DS Snap-Ins and Command-Line Tools.
+
+Feature Includes:
+
+Active Directory Users and Computers
+Active Directory Domains and Trusts
+Active Directory Sites and Services
